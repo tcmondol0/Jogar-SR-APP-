@@ -1,0 +1,6 @@
+{
+  "name": "Jogar",
+  "description": "A field sales companion app for route optimization, order taking, and client management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
